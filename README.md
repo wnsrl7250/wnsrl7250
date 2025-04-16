@@ -7,7 +7,7 @@
 <h2 align="center">👣 Footprint 🚶‍♂️</h2>
 <p align="center">
   🎓 <b>경기대학교 - AI 컴퓨터공학부 전공 (2018.03 ~ 2024.02)</b><br>
-  🏗 <b>멋쟁이 사자처럼 프론트엔드 부트캠프 12기 (2024.09 ~ ing)</b>
+  🏗 <b>멋쟁이 사자처럼 프론트엔드 부트캠프 12기 (2024.09 ~ 2024.03)</b>
 </p>
 <br>
 <h2 align="center">🛠 Tech Stack</h2>
@@ -19,7 +19,6 @@
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 </p>
 <br>
 
